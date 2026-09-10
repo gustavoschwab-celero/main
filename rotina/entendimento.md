@@ -28,3 +28,11 @@
 ## Bloco em etapa — BDMG, BANESE, BANPARÁ, BANESTES e Banco do Brasil
 - Esse bloco permanece na etapa.
 - Retomada da estratégia estruturada usando o novo produto de Dados (**Celero Insights**), nas conversas de Atuação com o colega responsável (Slack @U0BFJ7VCW67).
+
+## BNB
+- **Processo licitatório.** As tratativas ocorrem via sistema, não por reunião formal com participantes externos.
+- Não tratar ausência de contato de cliente numa reunião do BNB como risco/gap. Reuniões internas de preparação (ex.: "Fase Negociação") são normais e esperadas para esse deal — não indicam falta de avanço por si só.
+
+## BASA (atualização 2026-09-10)
+- Antes de sinalizar risco nesse deal, conferir a DM do Slack entre Gustavo e o bot "Claude" (user ID `U0BFJ7VCW67`, canal `D0BU9J7PBL4`) por atualizações de "Atuação BASA" — é lá que a tática de continuidade do deal é alinhada.
+- Esse contexto tem prioridade sobre a leitura fria dos campos do HubSpot.
